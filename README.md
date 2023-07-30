@@ -19,19 +19,17 @@
 ## Install
 
 ```sh
-npm install
+numpy
+pandas
+matplotlib
+pyneb
+math
 ```
 
 ## Usage
 
 ```sh
-npm run start
-```
-
-## Run tests
-
-```sh
-npm run test
+jupyter notebook
 ```
 
 ## Author
